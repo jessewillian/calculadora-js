@@ -1,0 +1,17 @@
+.header-main {
+    height: 25%;
+    width: 100%;
+    border-bottom: 2px solid #000;
+
+    background-color: rgb(696969);
+}
+
+.header-main .content-resul {
+    display: flex;
+    flex-flow: column;
+
+    width: 100%;
+    height: 100%;
+
+    padding: 30px 15px 15px 15px;
+}

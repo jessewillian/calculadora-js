@@ -1,7 +1,9 @@
 function headerMain() {
     return /*html*/`
         <header class=header-main>
-            Parte de Resultados
+            <div class="content-resul">
+                mundo
+            </div>
         </header>
     `
 }

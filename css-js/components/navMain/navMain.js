@@ -1,7 +1,9 @@
 function navMain() {
     return /*html*/`
         <nav class="nav-main">
-            Parte Superior
+            <button class="desfazer">
+            Desfazer
+            </button>
         </nav>
     `;
 }

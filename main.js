@@ -1,7 +1,7 @@
-import navMain from './css-js/contentInterface/navMain/navMain.js';
-import headerMain from './css-js/contentInterface/headerMain/headerMain.js';
-import sectionMain from './css-js/contentInterface/sectionMain/sectionMain.js';
-import sectionButton from './css-js/contentInterface/sectionButton/sectionButton.js';
+import navMain from './css-js/components/navMain/navMain.js';
+import headerMain from './css-js/components/headerMain/headerMain.js';
+import sectionMain from './css-js/components/sectionMain/sectionMain.js';
+import sectionButton from './css-js/components/sectionButton/sectionButton.js';
 
 const $root = document.querySelector("#root");
 
